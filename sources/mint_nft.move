@@ -15,7 +15,7 @@ module bibi::nft_mint {
     const NAME: vector<u8> = b"BIBA";
     const DESCRIPTION: vector<u8> = b"BIBA is an exclusive collection of 3333 NFTs on the Aptos Blockchain.";
     const COUNT: u64 = 3333;
-    const BASE_URL: vector<u8> = b"https://res.cloudinary.com/dwtz4ywyy/raw/upload/v1669727366/koizumi";
+    const BASE_URL: vector<u8> =  b"https://drive.google.com/file/d/1-UyFs_NTovUnzvY3i-I8g967sGJIposX/view?usp=sharing";
     const COLLECTION_URL: vector<u8> = b"https://drive.google.com/file/d/1-UyFs_NTovUnzvY3i-I8g967sGJIposX/view?usp=sharing";
 
     //Error Code
