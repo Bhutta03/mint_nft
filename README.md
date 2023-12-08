@@ -76,5 +76,5 @@ bibi::nft_mint::mint(&user_signer, count_to_mint);
 - `mint(user: &signer, count: u64)`: Allows users to mint a specified number of NFTs.
 
 # Utility Functions
-num_to_str(num: u64): Converts a number to a vector of bytes.
+- `num_to_str(num: u64)`: Converts a number to a vector of bytes.
 
