@@ -39,7 +39,7 @@ module bibi::nft_mint {
 
         // Initialize the MintInfo struct and move it to the admin's storage
         move_to(admin, MintInfo{
-            pool_cap: pool_signer_cap,
+            pool_cap: pool_signer_cap, 
             minted: simple_map::create<address, u64>(),
             cid: 0
         });
