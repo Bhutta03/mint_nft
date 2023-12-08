@@ -32,7 +32,7 @@ The `bibi::nft_mint` module defines a smart contract on the Aptos Blockchain for
 
 ## Usage
 [Getting Started](#[getting-started](https://github.com/bhutta03/to_do_list#readme
-))
+)
 ### Initialization
 
 The smart contract must be initialized by an administrator. This sets up the minting pool and creates the NFT collection.
